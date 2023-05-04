@@ -1,4 +1,5 @@
 public class Ex2 {
+
     public static int factorSum(int n) {
         int sum = 0;
         while (n > 1) {
